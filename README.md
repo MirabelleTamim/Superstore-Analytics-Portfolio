@@ -23,6 +23,9 @@ This project demonstrates a quick exploratory data analysis on a retail supersto
 - **Superstore_Sales_EDA.ipynb**: Jupyter Notebook containing all EDA steps
 - **README.md**: Project description and insights
 
+## Data Source
+- [Superstore Sales Dataset by Rohit Sahoo](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+
 ## How to Run
 1. Install Python 3 and the required libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`).
 2. Open `Superstore_Sales_EDA.ipynb` in Jupyter Notebook.
