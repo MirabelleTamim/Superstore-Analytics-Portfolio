@@ -1,4 +1,4 @@
-# Project 1: Quick Exploratory Data Analysis (Superstore Sales)
+# Superstore Sales Exploratory Data Analysis
 
 **Author**: Mir Tamim-Karim
 **Date**: September 22, 2024
@@ -16,6 +16,8 @@ This project demonstrates a quick exploratory data analysis on a retail supersto
 - **Monthly Sales Trend**: Generally increase towards the end of each year
 
 ## Files in This Folder
+- **Superstore_Dashboard.xlsx**: Excel Dashboard with PivotTables, Slicers, and Charts
+- **superstore_sales.csv**: Original dataset used for analysis
 - **superstore_sales.csv**: Original dataset used for analysis
 - **Superstore_Sales_EDA.ipynb**: Jupyter Notebook containing all EDA steps
 - **README.md**: Project description and insights
