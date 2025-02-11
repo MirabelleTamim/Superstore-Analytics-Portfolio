@@ -17,6 +17,7 @@ This project demonstrates a quick exploratory data analysis on a retail supersto
 
 ## Files in This Folder
 - **Superstore_Dashboard.xlsx**: Excel Dashboard with PivotTables, Slicers, and Charts
+- **Superstore_Dashboard_Preview.png**: Preview image of Dashboard
 - **superstore_sales.csv**: Original dataset used for analysis
 - **superstore_sales.csv**: Original dataset used for analysis
 - **Superstore_Sales_EDA.ipynb**: Jupyter Notebook containing all EDA steps
